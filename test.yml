@@ -1,0 +1,27 @@
+key: Hola Mundo 
+
+person:
+  name: Ariel
+  age: 30
+  city: New York
+  items:
+    - item1
+    - item2
+    - item3
+
+
+item2:
+  - item1: hola
+  - item2: como estas 
+  - item3: hola
+  
+script: >
+  hola h
+  hola
+  testort
+
+
+scripts: |
+  hola hola.txt
+  hola
+  testort

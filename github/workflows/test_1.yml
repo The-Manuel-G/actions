@@ -1,0 +1,10 @@
+name: TEST1
+
+ON: [push]
+
+jobs:
+  hola:
+    runs-on:  ubuntu-latest
+    steps:
+    - name: Hola Goku
+      run: echo Hola Goku
